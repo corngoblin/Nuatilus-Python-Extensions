@@ -19,4 +19,4 @@ This extension allows you to convert image files directly from the context menu.
 <img width="263" height="333" alt="Screenshot From 2025-07-27 17-45-09" src="https://github.com/user-attachments/assets/381f5f56-f99d-493e-a6ee-82dccba66e2b" />
 <img width="259" height="131" alt="Screenshot From 2025-07-27 17-45-17" src="https://github.com/user-attachments/assets/905d9085-4857-4c97-9d33-83f24ee2d07e" />
 
-Currently, it supports JPG, PNG, and WEBP formats. Adding support for additional formats is straightforward, as it utilizes ffmpeg for image conversion.
+Currently, it supports JPG, PNG, and WEBP formats. Adding support for additional formats is straightforward. It utilizes ffmpeg for image conversion.
