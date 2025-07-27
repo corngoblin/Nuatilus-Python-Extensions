@@ -6,7 +6,7 @@ To make these work you'll need to install the package "nautilus-python" in Fedor
 To use these extensions, place the files in the directory `~/local/share/nautilus-python/extensions` and ensure they are executable.
 # new-text.py
 
-This extension adds a context menu option for creating a "New Text File."
+This extension adds a context menu option for creating a "New Text File." It'll make a new text file in the current directory.
 
 <img width="221" height="283" alt="Screenshot From 2025-07-27 17-40-45" src="https://github.com/user-attachments/assets/d9933085-3549-4d6f-a69b-d124d194e039" />
 <img width="449" height="177" alt="Screenshot From 2025-07-27 17-40-56" src="https://github.com/user-attachments/assets/5759a8bd-c189-42af-a872-8496e2bf4224" />
